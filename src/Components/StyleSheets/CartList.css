@@ -1,0 +1,11 @@
+
+.card-parent{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start; 
+    gap: 22px;
+    /* padding: 12px; */
+    width: 100%;
+   
+} 
